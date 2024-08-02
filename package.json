@@ -1,0 +1,46 @@
+
+  {
+  "name": "fullupidesign",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ayusri",
+  "license": "ISC",
+  "description": "products names"
+},
+[
+{
+  "catagory-id":1,
+  "id":1,
+  "name":"gift",
+  "image":"image_cata_prod/amazon-watch.jpg"
+},
+{
+  "catagory-id":2,
+  "id":2,
+  "name":"hotsale",
+  "image":"image_cata_prod/amazonhotsale.jpg"
+},
+{
+  "catagory-id":3,
+  "id":3,
+  "name":"claimed",
+  "image":"image_cata_prod/amazonunclaimed.jpg"
+},
+{
+  "catagory-id":4,
+  "id":4,
+  "name":"chair",
+  "image":"image_cata_prod/chairs.jpg"
+},
+{
+  "catagory-id":5,
+  "id":5,
+  "name":"electronic",
+  "image":"image_cata_prod/electronics.jpg"
+}
+]
+
